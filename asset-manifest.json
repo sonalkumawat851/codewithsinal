@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Codewithsinal/static/css/main.dc4d6ff2.css",
+    "main.js": "/Codewithsinal/static/js/main.97a9f049.js",
+    "static/js/453.ed3810f9.chunk.js": "/Codewithsinal/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Codewithsinal/index.html",
+    "main.dc4d6ff2.css.map": "/Codewithsinal/static/css/main.dc4d6ff2.css.map",
+    "main.97a9f049.js.map": "/Codewithsinal/static/js/main.97a9f049.js.map",
+    "453.ed3810f9.chunk.js.map": "/Codewithsinal/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc4d6ff2.css",
+    "static/js/main.97a9f049.js"
+  ]
+}
